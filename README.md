@@ -1,5 +1,5 @@
 # VA-AR (AAAI 2025)
-This is the official code repository of the AAAI2025 paper "VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention"
+This is the official implementation of "VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention"
 
 ![image](https://github.com/user-attachments/assets/972ee257-893d-4f1a-aca7-46d52ecc1deb)
 
